@@ -34,5 +34,4 @@ Here are a few notable projects I have worked on:
 If you would like to get in touch or collaborate on a project, feel free to reach out to me through the following channels:
 
 - **Email**: [ultar@tercode.ru](mailto:ultar@tercode.ru)
-- 
 Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers and exploring new opportunities.
