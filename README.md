@@ -19,7 +19,7 @@ Here are a few notable projects I have worked on:
 
 - **Hyze Project**: A educational platform designed for students and educators writen on Next.js.
 
-- **Ulma-io**: A quiz platform running in real time via websockets.
+- **Luma-io**: A quiz platform running in real time via websockets.
 
 - **Dislace bot**: A private discord bot write on Typescript and Nest.js 
 
